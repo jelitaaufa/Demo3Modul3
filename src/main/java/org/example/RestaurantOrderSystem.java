@@ -88,5 +88,7 @@ public class RestaurantOrderSystem {
         }
         System.out.printf("Total: Rp %.2f%n", order.getTotal());
         scanner.close();
+
+        System.out.println("hai");
     }
 }
